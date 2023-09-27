@@ -44,7 +44,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="php" width="45" height="45"/>
 </p>
-
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hetrojivadiya&show_icons=true&locale=en&layout=compact" alt="hetrojivadiya" /></p>
 
