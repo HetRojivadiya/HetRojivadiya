@@ -1,9 +1,8 @@
+<h1 align="center">Hi 👋, I'm Het</h1>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
 <a href="mailto:hetrojivadiya999@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/het-rojivadiya-181ab0226)</a>
-
-<h1 align="center">Hi 👋, I'm Het</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hetrojivadiya&label=Profile%20views&color=0e75b6&style=flat" alt="hetrojivadiya" /> </p>
 
