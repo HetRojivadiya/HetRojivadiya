@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/hetrojivadiya" target="blank"><img src="https://img.shields.io/twitter/follow/hetrojivadiya?logo=twitter&style=for-the-badge" alt="hetrojivadiya" /></a> </p>
 
-- 🔭 I’m currently working on [LaptopPlaza](https://github.com/HetRojivadiya/LaptopPlaza)
+- 🔭 I’m currently working on [Sign Language Detection](https://github.com/HetRojivadiya/SignLanguage-Detection-And-Voice-To-Sign-Prediction)
 
-- 🌱 I’m currently learning **DAA , SpringBoot , ReactJS , NodeJS , ExpressJS , MongoDB.**
+- 🌱 I’m currently learning **DAA , ReactJS , NodeJS , ExpressJS , MongoDB.**
 
 - 👯 I’m looking to collaborate on [Airline Reservation System](https://github.com/HetRojivadiya/Airline-Reservation-System)
 
@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Advanced Java , DSA , ReactJs ,Python ,PHP.**
 
-- 📫 How to reach me **9510268400**
+- 📫 How to reach me **9510268400** || hetrojivadiya999@gmail.com
 
 
 <h2> 🚀🛠 &nbsp;Some Tools I Have Used and Learned</h2>
