@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Advanced Java , DSA , ReactJs ,Python ,PHP.**
 
-- 📫 How to reach me **9510268400** || hetrojivadiya999@gmail.com
+- 📫 How to reach me **9510268400** || **hetrojivadiya999@gmail.com**
 
 
 <h2> 🚀🛠 &nbsp;Some Tools I Have Used and Learned</h2>
