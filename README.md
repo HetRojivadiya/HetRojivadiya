@@ -45,7 +45,6 @@
 </p>
 <br>
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hetrojivadiya&show_icons=true&locale=en&layout=compact" alt="hetrojivadiya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hetrojivadiya&show_icons=true&locale=en" alt="hetrojivadiya" /></p>
 
