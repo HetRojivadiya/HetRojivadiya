@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on [Airline Reservation System](https://github.com/HetRojivadiya/Airline-Reservation-System)
 
-- 🤝 I’m looking for help with [AI Adaptive MCQ Test Platform](https://github.com/HetRojivadiya/AI_-Adaptive_MCQ-_FullyMonitoring_ExamPlatform)
+- 🤝 I’m looking for help with [AI Adaptive MCQ Test Platform](https://github.com/HetRojivadiya/Adaptive-MCQ-Exam-Platform)
 
 - 👨‍💻 All of my projects are available at [https://github.com/HetRojivadiya](https://github.com/HetRojivadiya)
 
