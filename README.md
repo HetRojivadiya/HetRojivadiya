@@ -60,7 +60,7 @@
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HetRojivadiay&repo=SignLanguage-Detection-And-Voice-To-Sign-Prediction)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HetRojivadiay&repo=SignLanguage-Detection-And-Voice-To-Sign-Prediction)](https://github.com/HetRojivadiya/SignLanguage-Detection-And-Voice-To-Sign-Prediction)
 
 </a> 
 <br/><br/>
