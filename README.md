@@ -44,7 +44,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="php" width="45" height="45"/>
 </p>
 <br><br>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HetRojivadiya)](https://github.com/anuraghazra/github-readme-stats)
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HetRojivadiya)
+
 <div>
 
 
