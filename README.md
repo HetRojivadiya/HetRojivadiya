@@ -46,6 +46,26 @@
 <br>
 <div>
 
+## Projects
+
+<a href="https://github.com/HetRojivadiya/Adaptive-MCQ-Exam-Platform">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Website-Blocker&theme=tokyonight" />
+
+</a>  
+
+<a href="https://github.com/HetRojivadiya/SignLanguage-Detection-And-Voice-To-Sign-Prediction">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=tokyonight" />
+
+</a> 
+
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hetrojivadiya&show_icons=true&locale=en" alt="hetrojivadiya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hetrojivadiya&" alt="hetrojivadiya" /></p>
