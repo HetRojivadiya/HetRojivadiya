@@ -60,7 +60,7 @@
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HetRojivadiya&repo=SignLanguage-Detection-And-Voice-To-Sign-Prediction&theme=tokyonight&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HetRojivadiya&repo=SignLanguage-Detection-And-Voice-To-Sign-Prediction&theme=tokyonight"/>
 
 </a> 
 <br/><br/>
