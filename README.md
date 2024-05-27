@@ -46,24 +46,7 @@
 <br>
 <div>
 
-## Projects
 
-<a href="https://github.com/HetRojivadiya/Adaptive-MCQ-Exam-Platform">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HetRojivadiya&repo=SignLanguage-Detection-And-Voice-To-Sign-Prediction&theme=tokyonight" />
-
-</a>  
-
-<a href="https://github.com/HetRojivadiya/SignLanguage-Detection-And-Voice-To-Sign-Prediction">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HetRojivadiay&repo=SignLanguage-Detection-And-Voice-To-Sign-Prediction)](https://github.com/HetRojivadiya/SignLanguage-Detection-And-Voice-To-Sign-Prediction)
-
-</a> 
-<br/><br/>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hetrojivadiya&show_icons=true&locale=en" alt="hetrojivadiya" /></p>
