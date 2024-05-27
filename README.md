@@ -60,10 +60,10 @@
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HetRojivadiya&repo=SignLanguage-Detection-And-Voice-To-Sign-Prediction&theme=tokyonight&theme=tokyonight" />
 
 </a> 
-
+<br/><br/>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hetrojivadiya&show_icons=true&locale=en" alt="hetrojivadiya" /></p>
