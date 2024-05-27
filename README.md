@@ -43,7 +43,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="php" width="45" height="45"/>
 </p>
-<br>
+<br><br>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HetRojivadiya)](https://github.com/anuraghazra/github-readme-stats)
 <div>
 
 
