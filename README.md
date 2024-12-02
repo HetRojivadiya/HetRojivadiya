@@ -13,9 +13,6 @@ Hello there, I'm Het Rojivadiya! 👋<br>A passionate Software Developer current
 ---
 ![]([![](https://visitcount.itsvg.in/api?id=exclusiveabhi&label=Profile%1170Views&pretty=false)](https://visitcount.itsvg.in))
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hetrojivadiya&label=Profile%20views&color=0e75b6&style=flat" alt="hetrojivadiya" /> </p>
-
 <p align="left"> <a href="https://twitter.com/hetrojivadiya" target="blank"><img src="https://img.shields.io/twitter/follow/hetrojivadiya?logo=twitter&style=for-the-badge" alt="hetrojivadiya" /></a> </p>
 
 
