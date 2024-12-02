@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 Hello there, I'm Het Rojivadiya! 👋<br>A passionate Software Developer currently pursuing my B.Tech at Marwadi University. My journey in the world of coding began with curiosity and has since evolved into a love for creating innovative Software solutions.<br></br>
- E-mail:- imexclusiveabhi@gmail.com
+ E-mail:- hetrojivadiya999@gmail.com
  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-8A2BE2)](https://www.linkedin.com/in/het-rojivadiya-181ab0226) 
