@@ -16,38 +16,14 @@ Hello there, I'm Het Rojivadiya! 👋<br>A passionate Software Developer current
 
 
 
-
-
-<a href="mailto:hetrojivadiya999@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/het-rojivadiya-181ab0226)</a>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hetrojivadiya&label=Profile%20views&color=0e75b6&style=flat" alt="hetrojivadiya" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hetrojivadiya" target="blank"><img src="https://img.shields.io/twitter/follow/hetrojivadiya?logo=twitter&style=for-the-badge" alt="hetrojivadiya" /></a> </p>
 
-- 🔭 I’m currently working on [Sign Language Detection](https://github.com/HetRojivadiya/SignLanguage-Detection-And-Voice-To-Sign-Prediction)
 
-- 👨‍💻 I’m currently learning **DAA , ReactJS , NodeJS , ExpressJS , MongoDB.**
-
-- 👯 I’m looking to collaborate on [Airline Reservation System](https://github.com/HetRojivadiya/Airline-Reservation-System)
-
-- 🤝 I’m looking for help with [AI Adaptive MCQ Test Platform](https://github.com/HetRojivadiya/Adaptive-MCQ-Exam-Platform)
-
-- 💬 Ask me about **Advanced Java , DSA , ReactJs ,Python ,PHP.**
-
-- 📫 How to reach me **9510268400** || **hetrojivadiya999@gmail.com**
 
          Happy Coding !!
 
 
 
 
-<div>
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hetrojivadiya&show_icons=true&locale=en" alt="hetrojivadiya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hetrojivadiya&" alt="hetrojivadiya" /></p>
-</div>
