@@ -13,10 +13,10 @@ Hello there, I'm Het Rojivadiya! 👋<br>A passionate Software Developer current
 ---
 ![]([![](https://visitcount.itsvg.in/api?id=exclusiveabhi&label=Profile%1170Views&pretty=false)](https://visitcount.itsvg.in))
 
+    :-) Happy Coding !! ^_^
+
+ 
 <p align="left"> <a href="https://twitter.com/hetrojivadiya" target="blank"><img src="https://img.shields.io/twitter/follow/hetrojivadiya?logo=twitter&style=for-the-badge" alt="hetrojivadiya" /></a> </p>
-
-
-      (: Happy Coding !!
 
 
 
